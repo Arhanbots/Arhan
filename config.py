@@ -133,7 +133,7 @@ VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.nexgenbots.xyz')
 
 
 
-API_KEY = getenv("API_KEY", '30DxNexGenBotsb8b568') # youtube song api key
+API_KEY = getenv("API_KEY", 'xbit_3nW_hlcVau6UYCNWHJhSdZJV2rWbnTSH') # youtube song api key
 
 
 
